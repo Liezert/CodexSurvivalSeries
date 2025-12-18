@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:creeper": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1506,
+      "minecraft:walk_one_cm": 10586,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 158,
+      "minecraft:damage_taken": 321,
+      "minecraft:damage_dealt": 15,
+      "minecraft:play_time": 6785,
+      "minecraft:jump": 233,
+      "minecraft:time_since_death": 993,
+      "minecraft:sprint_one_cm": 25030,
+      "minecraft:fall_one_cm": 9475,
+      "minecraft:swim_one_cm": 8014,
+      "minecraft:total_world_time": 6785,
+      "minecraft:fly_one_cm": 74370,
+      "minecraft:walk_on_water_one_cm": 838,
+      "minecraft:crouch_one_cm": 272,
+      "minecraft:sneak_time": 194,
+      "minecraft:deaths": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:stick": 1,
+      "minecraft:sand": 22
+    },
+    "minecraft:mined": {
+      "minecraft:sand": 22,
+      "minecraft:tall_dry_grass": 6,
+      "minecraft:short_dry_grass": 3,
+      "minecraft:dead_bush": 2,
+      "minecraft:sugar_cane": 1
+    }
+  },
+  "DataVersion": 4671
+}
