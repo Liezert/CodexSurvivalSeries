@@ -623,21 +623,26 @@
     "criteria": {
       "minecraft:pillager": "2025-12-18 20:12:10 +0700",
       "minecraft:skeleton": "2025-12-18 11:19:13 +0700",
+      "minecraft:phantom": "2025-12-21 10:21:41 +0700",
       "minecraft:parched": "2025-12-18 19:34:50 +0700",
       "minecraft:witch": "2025-12-19 08:58:40 +0700",
+      "minecraft:ravager": "2025-12-21 08:58:07 +0700",
       "minecraft:husk": "2025-12-18 14:00:52 +0700",
       "minecraft:bogged": "2025-12-18 21:36:48 +0700",
       "minecraft:ender_dragon": "2025-12-20 22:07:22 +0700",
       "minecraft:hoglin": "2025-12-18 13:15:06 +0700",
       "minecraft:shulker": "2025-12-20 22:27:26 +0700",
+      "minecraft:camel_husk": "2025-12-21 16:19:30 +0700",
       "minecraft:cave_spider": "2025-12-18 12:39:24 +0700",
       "minecraft:piglin": "2025-12-18 13:44:34 +0700",
       "minecraft:breeze": "2025-12-18 21:36:12 +0700",
+      "minecraft:vindicator": "2025-12-21 08:56:40 +0700",
       "minecraft:enderman": "2025-12-18 13:05:18 +0700",
       "minecraft:spider": "2025-12-18 11:33:19 +0700",
       "minecraft:piglin_brute": "2025-12-19 22:25:01 +0700",
       "minecraft:zombie": "2025-12-18 11:44:31 +0700",
-      "minecraft:creeper": "2025-12-18 21:56:21 +0700"
+      "minecraft:creeper": "2025-12-18 21:56:21 +0700",
+      "minecraft:slime": "2025-12-21 10:31:22 +0700"
     },
     "done": false
   },
@@ -3243,75 +3248,15 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-12-20 21:28:02 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-12-20 21:51:37 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-12-20 22:27:51 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-12-20 22:27:51 +0700"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-12-20 22:07:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-12-20 21:51:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-12-20 22:27:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-12-20 22:18:05 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
     },
     "done": true
   },
@@ -3327,75 +3272,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-12-20 23:06:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-12-20 23:06:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-12-20 22:18:05 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-12-20 23:06:00 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-12-20 21:51:37 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-12-20 23:06:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-12-20 21:28:02 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-12-20 21:51:39 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-12-20 22:27:51 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-12-20 23:06:00 +0700"
     },
     "done": true
   },
@@ -3417,21 +3296,357 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-12-20 21:51:37 +0700"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-20 21:51:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-20 21:51:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-20 21:51:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-20 21:51:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-20 21:51:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-12-20 21:51:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-12-20 21:51:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-12-20 21:51:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-20 21:51:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-20 21:51:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-12-20 21:52:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-12-20 21:55:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-12-20 21:55:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-12-20 22:07:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-12-20 22:11:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-12-20 22:11:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-12-20 22:11:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-20 22:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-12-20 22:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-20 22:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-20 22:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-20 22:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-12-20 22:21:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-12-20 22:27:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-12-20 22:27:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-20 22:27:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-20 22:27:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-20 22:27:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-20 22:27:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-20 22:27:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-20 22:27:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-20 23:06:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-20 23:06:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-20 23:06:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-20 23:06:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-20 23:06:00 +0700"
     },
     "done": true
   },
@@ -3453,75 +3668,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-12-20 21:51:37 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-12-20 22:11:18 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-12-20 21:51:37 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-20 23:06:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-12-20 21:51:37 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
     },
     "done": true
   },
@@ -3531,147 +3680,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_end_stone_brick": "2025-12-20 22:27:51 +0700"
+      "has_smooth_stone": "2025-12-21 08:32:19 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_shulker_box": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+      "has_smooth_stone": "2025-12-21 08:32:19 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_shulker_box": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+      "has_smooth_stone": "2025-12-21 08:32:19 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
-      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+      "has_logs": "2025-12-21 08:44:36 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_stone": "2025-12-20 21:51:37 +0700"
+      "has_gray_wool": "2025-12-21 08:47:42 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_end_stone_brick": "2025-12-20 22:27:51 +0700"
+      "has_black_wool": "2025-12-21 08:47:42 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_stone_bricks": "2025-12-20 21:52:01 +0700"
+      "has_black_wool": "2025-12-21 08:47:42 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_shulker_box": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+      "has_gray_wool": "2025-12-21 08:47:42 +0700"
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "minecraft:recipes/decorations/black_bed": {
     "criteria": {
-      "in_city": "2025-12-20 22:11:26 +0700"
+      "has_black_wool": "2025-12-21 08:47:42 +0700"
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "entered_end_gateway": "2025-12-20 22:11:02 +0700"
+      "has_gray_wool": "2025-12-21 08:47:42 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_end_stone": "2025-12-20 22:18:05 +0700"
+      "hero_of_the_village": "2025-12-21 08:58:09 +0700"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
-      "elytra": "2025-12-20 22:21:58 +0700"
+      "has_iron_ore": "2025-12-21 10:29:12 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
-      "has_stone": "2025-12-20 21:51:37 +0700"
+      "has_iron_ore": "2025-12-21 10:29:12 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_end_stone_bricks": "2025-12-20 22:27:51 +0700"
+      "has_slime_ball": "2025-12-21 10:31:26 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_shulker_box": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_shulker_box": "2025-12-20 22:48:48 +0700"
+      "has_slime_ball": "2025-12-21 10:31:26 +0700"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "in_stronghold": "2025-12-20 21:52:03 +0700"
+      "has_bone_block": "2025-12-21 10:33:18 +0700"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
     "criteria": {
-      "entered_end": "2025-12-20 21:55:48 +0700"
+      "has_copper_chest": "2025-12-21 17:44:52 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_copper_ore": "2025-12-20 21:51:46 +0700"
+      "has_book": "2025-12-21 16:14:39 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_end_stone": "2025-12-20 22:18:05 +0700"
+      "has_paper": "2025-12-21 16:06:11 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "minecraft:recipes/decorations/copper_chest": {
     "criteria": {
-      "has_end_stone": "2025-12-20 22:18:05 +0700"
+      "has_copper_chest": "2025-12-21 17:44:52 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_coal_ore": "2025-12-20 21:51:39 +0700"
+      "has_book": "2025-12-21 16:14:39 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_shulker_shell": "2025-12-20 22:27:29 +0700"
+      "has_book": "2025-12-21 16:14:39 +0700"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "entered_end": "2025-12-20 21:55:48 +0700"
+      "has_book": "2025-12-21 16:14:39 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_stone": "2025-12-20 21:51:37 +0700"
+      "has_carrot": "2025-12-21 17:11:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-12-21 16:06:11 +0700"
     },
     "done": true
   },
